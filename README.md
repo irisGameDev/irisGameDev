@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @irisGameDev
+- 👀 I’m interested in game programming and 3D modeling/animation.
+- 💞️ I’m looking to collaborate on game projects
+- 👨‍💻 I love gameplay and backend programming.
+- 🥲 I'm not very good at graphics programming and art in general.
+- ⚡ Fun fact: I can't play horror games because I get too scaried, but I enjoy watching horror gameplays xD
